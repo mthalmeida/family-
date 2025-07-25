@@ -8,12 +8,6 @@
   <img width="250" alt="Demo.gif" src="https://github.com/mthalmeida/family-/blob/main/public/icons/background_Readme.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
 
-
-
-<div align="center">
-  <img alt="Preview" src="https://github.com/mthalmeida/gestao-familiar/assets/preview.png">
-</div>
-
 ---
 
 ## 📘 Sobre o Projeto
