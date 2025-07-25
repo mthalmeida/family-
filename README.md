@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="250" alt="Gestão Familiar" src="https://github.com/mthalmeida/gestao-familiar/assets/logo.png">
+  <img width="250" alt="Gestão Familiar" src="https://github.com/mthalmeida/family-/blob/main/public/icons/LogoApp.png">
 </div>
 
 #
 
 <div align="center">
-  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square)
-  ![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
-  ![tech](https://img.shields.io/badge/stack-React--TypeScript--Vite--Supabase-critical?style=flat-square)
+  <img width="250" alt="Demo.gif" src="https://github.com/mthalmeida/family-/blob/main/public/icons/background_Readme.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
+
+
 
 <div align="center">
   <img alt="Preview" src="https://github.com/mthalmeida/gestao-familiar/assets/preview.png">
